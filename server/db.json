@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "first_name": "Tim",
+      "last_name": "Miller",
+      "email": "timmiller007@hotmail.com",
+      "phone": "+1 369 4358 711",
+      "address": "Denmark",
+      "description": "Hot Supplier",
+      "id": 1
+    }
+  ]
+}
